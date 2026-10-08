@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Samiul Islam<br><br>### 💻 CSE Student | 🌱 Beginner Programmer | 🤖 Aspiring Machine Learning Engineer<br><br>Welcome to my GitHub profile! 👋<br><br>I'm a **Computer Science & Engineering student** who is currently building my programming fundamentals and exploring the world of **Machine Learning, Artificial Intelligence, and Software Development**.<br><br>I believe in learning step by step, building projects, solving problems, and improving a little every day. 🚀<br><br>---<br><br>## 🧑‍💻 About Me<br><br>- 🎓 Currently studying **Computer Science & Engineering**<br>- 🌱 Currently learning **C++, Data Structures & Algorithms**<br>- 🤖 Interested in **Machine Learning & Artificial Intelligence**<br>- 💡 Learning by **coding, practicing, and building projects**<br>- 🧩 Interested in **problem solving and competitive programming**<br>- 🔭 My goal is to become a **Machine Learning Engineer**<br>- 📚 Always trying to learn something new<br>- 🚀 Currently building my skills from the fundamentals<br><br>---<br><br>## 🛠️ Languages & Technologies<br><br>### Currently Learning<br>- 💻 C++<br>- ☕ Java<br>- 🌐 HTML & CSS<br>- ⚡ JavaScript<br>- 🗃️ Data Structures & Algorithms<br><br>### Future Goals<br>- 🐍 Python<br>- 📊 NumPy & Pandas<br>- 📈 Data Science<br>- 🤖 Machine Learning<br>- 🧠 Deep Learning<br>- 🔥 Artificial Intelligence<br><br>## 🎯 My Long-Term Goal<br><br>My ultimate goal is to become a skilled **Machine Learning Engineer** and build useful technology that can solve real-world problems.<br><br>I'm just getting started, but I'm excited about the journey. 🚀<br><br>---<br><br>### ⭐ Thanks for visiting my profile!<br><br>Feel free to explore my repositories and follow my journey as I learn, code, and build. 💙
 
-<!--
-**samiul955/samiul955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=samiul955&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=samiul955&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=samiul955&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=samiul955&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
